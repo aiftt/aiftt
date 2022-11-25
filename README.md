@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - :email: ftt.loves@gmail.com
-- :wechat: coalesce
-- :qq: 604522194
-- :blog: (emacsable|building) https://www.cheng92.com
+- wechat: coalesce
+- qq: 604522194
+- 💁 (emacsable|building) https://www.cheng92.com
 
 <!---
 aiftt/aiftt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
