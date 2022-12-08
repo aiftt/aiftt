@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - :email: ftt.loves@gmail.com
-- wechat: coalesce
+- wechat: *****
 - qq: 604522194
 - 💁 (emacsable|building) https://www.cheng92.com
 
